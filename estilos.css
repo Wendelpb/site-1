@@ -1,0 +1,88 @@
+@charset "utf-8";
+body{
+  background: #f2f2f2;
+}
+
+header{
+  width:100%;
+  height: 150px;
+  background-image: url('ll.jpg');
+  
+}
+
+#nome{
+  font: 54px "corbel";
+  color: #0c6c92;
+}
+
+#menu1 img{
+  float: left;
+  margin-right: 35px
+  
+}
+
+#menu2{
+  
+  float: right; 40px
+}
+
+#menu2 ul{
+   list-style: none;
+  
+}
+#menu2 ul li{
+  float: left
+}
+
+#menu2 a{
+  font: 17px;
+  text-decoration: none;
+  color:#ffffff
+  font-family:arial;
+  padding: 7px 18px;
+}
+
+#menu2 a:hover{
+  background-color: black;
+  border-radius: 5px;
+}
+
+#topo{
+  
+  width: 1000px;
+  height: 150px;
+  margin: auto;
+}
+
+#logo{
+  width: 270px;
+  height: 90px;
+  font: italic bold 23px 'corbel';
+  color:#f2f2f2;
+  margin-top: 20px;margin-left: 20px;
+  float: left
+}
+
+#banner{
+  width: 100%;
+  height: 320px;
+  margin: auto;
+}
+
+#conteudo{
+  width: 1000px;
+  height: 700px;
+  margin: auto;
+}
+
+footer{
+  width: 100%;
+  height: 150px;
+  background-image: url('')
+}
+
+
+
+
+
+
